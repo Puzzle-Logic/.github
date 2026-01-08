@@ -26,12 +26,12 @@ Place this file at: .github/profile/README.md
 
 <hr/>
 
-<h3 align="center">Mission & Vision</h3>
+<!-- <h3 align="center">Mission & Vision</h3>
 
 <p align="center">
   <b>Mission:</b> Advancing intelligent pathology healthcare through technological innovation.<br/>
   <b>Vision:</b> Providing world-leading AI solutions in pathology to enhance diagnostic quality and efficiency, and to expand clinical applications.
-</p>
+</p> -->
 
 <hr/>
 
