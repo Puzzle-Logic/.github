@@ -5,7 +5,7 @@ Place this file at: .github/profile/README.md
 
 <p align="center">
   <a href="https://puzzlelogic.com">
-    <img alt="PuzzleLogic" src="https://puzzlelogic.com/favicon.ico" height="72" />
+    <img alt="PuzzleLogic" src="logos/puzzlelogic.png" height="72" />
   </a>
 </p>
 
@@ -33,39 +33,33 @@ Place this file at: .github/profile/README.md
   <b>Vision:</b> Providing world-leading AI solutions in pathology to enhance diagnostic quality and efficiency, and to expand clinical applications.
 </p> -->
 
-<hr/>
+<!-- <hr/> -->
 
-<h3 align="center">backed by / in collaboration with</h3>
-
-<p align="center">
-  <!-- Jin Lab – IMVR -->
-  <a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
-    <img src="https://avatars.githubusercontent.com/u/163241502?s=200" height="72" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- KFBIO -->
+### backed by:
+<p style="display: flex; align-items: center; gap: 24px;">
   <a href="https://kfbio.kfbiopathology.com/" title="KFBIO – Digital Pathology">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microscope.svg" height="72" />
+    <img src="logos/KFBIO.png" height="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- WhaleFlux -->
   <a href="https://www.whaleflux.com/" title="WhaleFlux">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whale.svg" height="72" />
+    <img src="logos/whaleflux_logo.png" height="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.a-star.edu.sg/" title="A*STAR">
+    <img src="logos/astar.png" height="50" />
+  </a>
+</p>
 
-  <!-- UC Irvine -->
+<p style="display: flex; align-items: center; gap: 24px;">
+  <a href="https://www.sgh.com.sg/" title="Singapore General Hospital">
+    <img src="logos/sgh.png" height="50" />
+  </a>
+  <a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
+    <img src="logos/jinlab.png" height="50" />
+  </a>
   <a href="https://uci.edu/" title="University of California, Irvine">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/UC_Irvine_seal.svg" height="72" />
+    <img src="logos/ucirvine-blue.png" height="50" />
   </a>
 </p>
 
-<p align="center">
-  Collaborating with leading research labs, pathology innovators, and academic institutions,<br/>
-  including <b>Jin Lab – iMVR@NUS</b>, <b>KFBIO</b>, <b>WhaleFlux</b>, and <b>UC Irvine</b>.
-</p>
 
 <hr/>
 
