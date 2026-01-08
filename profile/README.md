@@ -26,7 +26,7 @@ Place this file at: .github/profile/README.md
 
 <hr/>
 
-<!-- <h3 align="center">Mission & Vision</h3>
+<h3 align="center">Mission & Vision</h3>
 
 <p align="center">
   <b>Mission:</b> Advancing intelligent pathology healthcare through technological innovation.<br/>
@@ -47,7 +47,7 @@ Place this file at: .github/profile/README.md
   We collaborate with <b>Jin Lab - iMVR@NUS</b> (intelligent Medical Vision & Robotics) on research and translation in medical AI.
 </p>
 
-<hr/> -->
+<hr/>
 
 <!-- ## Products
 
