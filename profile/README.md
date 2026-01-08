@@ -38,16 +38,34 @@ Place this file at: .github/profile/README.md
 <h3 align="center">backed by / in collaboration with</h3>
 
 <p align="center">
-  <a href="https://github.com/jinlab-imvr" title="Jin Lab - iMVR@NUS">
-    <img alt="Jin Lab - iMVR@NUS" src="https://avatars.githubusercontent.com/u/163241502?s=200&v=4" height="84" />
+  <!-- JinLab – IMVR -->
+  <a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
+    <img alt="Jin Lab – iMVR@NUS" src="https://avatars.githubusercontent.com/u/163241502?s=200&v=4" height="80" style="margin:0 16px;" />
+  </a>
+
+  <!-- KF BIO Pathology -->
+  <a href="https://kfbio.kfbiopathology.com/" title="KFBIO - Digital Pathology Solutions">
+    <img alt="KFBIO" src="https://kfbiopathology.com/favicon.ico" height="80" style="margin:0 16px;" />
+  </a>
+
+  <!-- WhaleFlux -->
+  <a href="https://www.whaleflux.com/" title="WhaleFlux">
+    <img alt="WhaleFlux" src="https://www.whaleflux.com/favicon.ico" height="80" style="margin:0 16px;" />
+  </a>
+
+  <!-- UC Irvine (UCI) -->
+  <a href="https://uci.edu/" title="University of California, Irvine">
+    <img alt="UCI" src="https://uci.edu/favicon.ico" height="80" style="margin:0 16px;" />
   </a>
 </p>
 
 <p align="center">
-  We collaborate with <b>Jin Lab - iMVR@NUS</b> (intelligent Medical Vision & Robotics) on research and translation in medical AI.
+  We collaborate with leading research labs, pathology innovators, and academic partners including:<br/>
+  <b>Jin Lab – iMVR@NUS</b>, <b>KFBIO</b>, <b>WhaleFlux</b>, and <b>University of California, Irvine (UCI)</b>.
 </p>
 
 <hr/>
+
 
 <!-- ## Products
 
