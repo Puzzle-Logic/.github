@@ -38,33 +38,37 @@ Place this file at: .github/profile/README.md
 <h3 align="center">backed by / in collaboration with</h3>
 
 <p align="center">
-  <!-- JinLab – IMVR -->
+  <!-- Jin Lab – IMVR -->
   <a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
-    <img alt="Jin Lab – iMVR@NUS" src="https://avatars.githubusercontent.com/u/163241502?s=200&v=4" height="80" style="margin:0 16px;" />
+    <img src="https://avatars.githubusercontent.com/u/163241502?s=200" height="72" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- KF BIO Pathology -->
-  <a href="https://kfbio.kfbiopathology.com/" title="KFBIO - Digital Pathology Solutions">
-    <img alt="KFBIO" src="https://kfbiopathology.com/favicon.ico" height="80" style="margin:0 16px;" />
+  <!-- KFBIO -->
+  <a href="https://kfbio.kfbiopathology.com/" title="KFBIO – Digital Pathology">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microscope.svg" height="72" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- WhaleFlux -->
   <a href="https://www.whaleflux.com/" title="WhaleFlux">
-    <img alt="WhaleFlux" src="https://www.whaleflux.com/favicon.ico" height="80" style="margin:0 16px;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whale.svg" height="72" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- UC Irvine (UCI) -->
+  <!-- UC Irvine -->
   <a href="https://uci.edu/" title="University of California, Irvine">
-    <img alt="UCI" src="https://uci.edu/favicon.ico" height="80" style="margin:0 16px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/UC_Irvine_seal.svg" height="72" />
   </a>
 </p>
 
 <p align="center">
-  We collaborate with leading research labs, pathology innovators, and academic partners including:<br/>
-  <b>Jin Lab – iMVR@NUS</b>, <b>KFBIO</b>, <b>WhaleFlux</b>, and <b>University of California, Irvine (UCI)</b>.
+  Collaborating with leading research labs, pathology innovators, and academic institutions,<br/>
+  including <b>Jin Lab – iMVR@NUS</b>, <b>KFBIO</b>, <b>WhaleFlux</b>, and <b>UC Irvine</b>.
 </p>
 
 <hr/>
+
 
 
 <!-- ## Products
