@@ -35,7 +35,7 @@ Place this file at: .github/profile/README.md
 
 <!-- <hr/> -->
 
-### backed by:
+### Cooperated with:
 <p style="display: flex; align-items: center; gap: 24px;">
   <a href="https://kfbio.kfbiopathology.com/" title="KFBIO – Digital Pathology">
     <img src="logos/KFBIO.png" height="50" />
